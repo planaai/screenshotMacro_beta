@@ -4,43 +4,39 @@
 
 
 ## 사용방법
-<img width="1197" height="743" alt="Image" src="https://github.com/user-attachments/assets/3ce1a6d6-a432-4a32-89ec-c1118da6492a" />
-1. plana.ai에서 회원가입한 id랑 비밀번호로 로그인을 합니다
-
-
 
 <img width="1189" height="721" alt="Image" src="https://github.com/user-attachments/assets/44d9e6ec-e6ca-4411-aeb0-36885f8d18a9" />
-2. 단일 파일 선택 / 폴더 선택 중 하나를 골라 파일이나 디렉토리를 지정합니다.
+1. 단일 파일 선택 / 폴더 선택 중 하나를 골라 파일이나 디렉토리를 지정합니다.
 
 
 
 
 <img width="1187" height="717" alt="Image" src="https://github.com/user-attachments/assets/c439464c-d6a9-42ff-94e4-93e333919a63" />
-3. 지정 후 일괄 추출 시작 버튼을 누릅니다
+2. 지정 후 일괄 추출 시작 버튼을 누릅니다
 
 
 
 
 <img width="1102" height="739" alt="Image" src="https://github.com/user-attachments/assets/6456b13a-4009-48c5-a5b8-b6a8cfbd27a3" />
-4. 여기서 추출 결과를 확인 합니다. 추출 결과에 따라 검수 필요 상태가 뜰 수 있으니 참고 바랍니다. (검수 필요 상태의 기준은 스캔 후 필드가 비어 있거나 하는 경우에 발생하며, 설령 스캔을 해도 오류값으로 채워지는 경우 준비됨 상태로 채워지니 유의 부탁 드립니다)
+3. 여기서 추출 결과를 확인 합니다. 추출 결과에 따라 검수 필요 상태가 뜰 수 있으니 참고 바랍니다. (검수 필요 상태의 기준은 스캔 후 필드가 비어 있거나 하는 경우에 발생하며, 설령 스캔을 해도 오류값으로 채워지는 경우 준비됨 상태로 채워지니 유의 부탁 드립니다)
 
 
 
 
 <img width="1091" height="730" alt="Image" src="https://github.com/user-attachments/assets/92b3dda5-3a76-4197-bcc1-2c3f28fdf124" />
-4-1. 만약 상세검수를 할 경우에는 먼저 확인할 학생의 데이터를 클릭후 선택 항목 상세 검수 버튼을 클릭합니다
+3-1. 만약 상세검수를 할 경우에는 먼저 확인할 학생의 데이터를 클릭후 선택 항목 상세 검수 버튼을 클릭합니다
 
 
 
 
 <img width="1491" height="932" alt="Image" src="https://github.com/user-attachments/assets/b93e7ca9-c4b5-4c30-9897-6368acb9e6be" />
-4-2. 오류등을 수정할때 사진을 참고해 옆에 있는 데이터 필드를 수정해주세요. 다 수정 하셨다면 초록 버튼을 업로드를 취소 하실 예정이면 빨간 버튼을 눌러주시면 되겠습니다.
+3-2. 오류등을 수정할때 사진을 참고해 옆에 있는 데이터 필드를 수정해주세요. 다 수정 하셨다면 초록 버튼을 업로드를 취소 하실 예정이면 빨간 버튼을 눌러주시면 되겠습니다.
 
 
 
 
 <img width="1087" height="726" alt="Image" src="https://github.com/user-attachments/assets/a29db03b-af22-439e-b1f9-a96c86d1ec26" />
-5. Yes를 누르시면 본인의 계정에 업로드한 데이터가 등록 됩니다
+4. Yes를 누르시면 본인의 계정에 업로드한 데이터가 등록 됩니다
 
 
 
