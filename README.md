@@ -1,4 +1,4 @@
-# Plana AI Screenshot Extractor
+# Plana AI Screenshot Extractor BETA
 
 이 프로젝트는 OCR 기능을 통해 블루아카이브의 학생 및 스킬 정보를 파싱하여 plana.ai 서버와 동기화하는 도구이자 매크로로 스크린샷을 더욱 쉽게 찍을 수 있도록 돕습니다.
 
