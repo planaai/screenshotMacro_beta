@@ -35,8 +35,9 @@
 
 
 
-<img width="1087" height="726" alt="Image" src="https://github.com/user-attachments/assets/a29db03b-af22-439e-b1f9-a96c86d1ec26" />
-4. Yes를 누르시면 본인의 계정에 업로드한 데이터가 등록 됩니다
+<img width="882" height="592" alt="image" src="https://github.com/user-attachments/assets/04d24ebb-6f22-484b-a68c-e88592acbd09" />
+
+4. 위의 사용방법을 반복하시거나 데이터 압축 저장 버튼을 누르시면 원하는 위치에 인식 데이터 압축파일을 정리 할 수 있습니다
 
 
 
@@ -70,8 +71,9 @@
 
 
 
-<img width="1102" height="739" alt="Image" src="https://github.com/user-attachments/assets/008907ee-eaae-4aca-b7e2-12e849e9c207" />
-4. 위의 사용방법을 반복하시거나 일괄로 서버에 업로드 하시면 됩니다
+<img width="882" height="592" alt="image" src="https://github.com/user-attachments/assets/04d24ebb-6f22-484b-a68c-e88592acbd09" />
+
+4. 위의 사용방법을 반복하시거나 데이터 압축 저장 버튼을 누르시면 원하는 위치에 인식 데이터 압축파일을 정리 할 수 있습니다
 
 
 
